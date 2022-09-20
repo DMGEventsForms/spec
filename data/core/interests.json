@@ -1,0 +1,162 @@
+[
+  {
+    "label": "Polishing Stones",
+    "id": "ae558833-faec-4a28-9c2a-3228c8f6a70b",
+    "categoryId": "22f10c07-c6aa-4186-bc2e-4eec8bfaa258"
+  },
+  {
+    "label": "Chemical cleaning and maintenance products",
+    "id": "40b1b456-4a46-4070-8205-11d7909c9f50",
+    "categoryId": "22f10c07-c6aa-4186-bc2e-4eec8bfaa258"
+  },
+  {
+    "label": "Accessories",
+    "id": "aad6e5ec-007c-4c47-9766-5c5ae9547f9b",
+    "categoryId": "22f10c07-c6aa-4186-bc2e-4eec8bfaa258"
+  },
+  {
+    "label": "Acoustics",
+    "id": "12579bb2-0cae-4a77-ac1b-32ca8f989644",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Artificial Glass",
+    "id": "0b06a383-215d-412b-8cbb-99ee6bbec469",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Cladding & Glazing",
+    "id": "e7e29540-f9b8-466a-af1f-ff2a773a9c2d",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Decor",
+    "id": "a4c67db2-d844-488a-8528-42e6f33f736a",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Facades & Cladding",
+    "id": "3ea8d06e-37c8-4130-b508-467d0d077793",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Glass",
+    "id": "db4fa73f-250b-4ea6-89d2-cda476dba153",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Green/Live Walling",
+    "id": "a13d7ecf-fccd-4e16-8c23-bc659635b1f1",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "LED Wall Panels",
+    "id": "2c602652-2e61-44bc-a8af-0d89848fe078",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Mashrabiya Screens",
+    "id": "30a34139-f39a-4aa0-a2cc-6a2c1eb50f01",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Smart Glass",
+    "id": "472cc420-22af-45ba-b1be-3e0ace4cfe15",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Architectural Glass",
+    "id": "",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Ceiling, Walling & Other Interior Finishes",
+    "id": "51f4bca4-cb87-4cef-937b-914743d1ab6b",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Curtains",
+    "id": "d568d20f-a924-4608-aae8-ba8f8c9f5f94",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Solid Surfaces",
+    "id": "5cac24d2-74a1-4cea-8084-70f39b136d56",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Accessories",
+    "id": "92c12134-a559-4c5b-90c4-ae5915e95019",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Architecture Mashrabiya Screens",
+    "id": "265ed216-6f9b-4c27-8e41-1321bb8d5f56",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Bricks / Briquettes / Brickstrip",
+    "id": "96155d1d-f6bf-4465-af59-ef371ef589f3",
+    "categoryId": "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+  },
+  {
+    "label": "Accessories",
+    "id": "76d0f6b8-83a6-4db5-8d4d-08f05d25a85d",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Candles",
+    "id": "f65867b7-0a6b-474f-a96b-2b9bb9370ef7",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Ceramics",
+    "id": "5f926d90-aa0b-4391-81b3-430c0401478e",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Corporate gifts and souvenirs",
+    "id": "fe9054d3-6f7a-4696-a22a-7d193e0e82d0",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Crystal & Glassware",
+    "id": "90cf3a8e-9fdf-458c-85a2-1b3b5ade6296",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Decor",
+    "id": "11232d13-d77e-4e8c-90fa-00c8e9c5f38c",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Home fragrances",
+    "id": "c892ead4-44c1-483d-abdb-c4365eea8213",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Homewares",
+    "id": "2f11bf57-83ad-4937-899b-44c63eab1b25",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Kitchen & Bathroom",
+    "id": "0a3ad790-df12-4969-af02-993f83a202f7",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Objets",
+    "id": "9c17540f-ce30-4e5b-8d60-021f51500c71",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Silverware",
+    "id": "fe0cbc0d-7c11-4eda-9123-594c46e283a6",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  },
+  {
+    "label": "Storage products and boxes",
+    "id": "4da30199-d860-406f-89c4-1bc9c211a5e5",
+    "categoryId": "d448f30a-1887-4f76-aedb-344ec752fd53"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "label": "Coatings Show",
+    "id": "a2481233-4c8e-48da-ac48-b196871f455e",
+    "section": "Coatings",
+    "fieldSources": {
+      "businessNatures": ["a2481233-4c8e-48da-ac48-b196871f455e"],
+      "interestCategories": ["22f10c07-c6aa-4186-bc2e-4eec8bfaa258"]
+    }
+  },
+  {
+    "label": "The Big 5 Construct",
+    "id": "e0a43542-0479-4d8a-bc3f-99e530c9337a",
+    "section": "Construction",
+    "fieldSources": {
+      "businessNatures": [
+        "a2481233-4c8e-48da-ac48-b196871f455e",
+        "e0a43542-0479-4d8a-bc3f-99e530c9337a"
+      ],
+      "interestCategories": [
+        "22f10c07-c6aa-4186-bc2e-4eec8bfaa258",
+        "fb52cd96-ec24-47ed-b373-16044c16d6fb"
+      ]
+    }
+  },
+  {
+    "label": "Saudi Infrastructure Expo",
+    "id": "d2079174-4db6-4570-ac65-583c115055a7",
+    "section": "Construction",
+    "fieldSources": {
+      "businessNatures": [
+        "a2481233-4c8e-48da-ac48-b196871f455e",
+        "e0a43542-0479-4d8a-bc3f-99e530c9337a",
+        "d2079174-4db6-4570-ac65-583c115055a7",
+        "0450b602-0b99-4e1d-8149-a3440cf2fe32",
+        "2c41d191-ef79-459a-8a0b-96c4e155234d"
+      ],
+      "interestCategories": [
+        "22f10c07-c6aa-4186-bc2e-4eec8bfaa258",
+        "fb52cd96-ec24-47ed-b373-16044c16d6fb",
+        "d448f30a-1887-4f76-aedb-344ec752fd53"
+      ]
+    }
+  },
+  {
+    "label": "Tanzania Energy Congress",
+    "id": "0450b602-0b99-4e1d-8149-a3440cf2fe32",
+    "section": "Energy",
+    "fieldSources": {
+      "businessNatures": [
+        "d2079174-4db6-4570-ac65-583c115055a7",
+        "0450b602-0b99-4e1d-8149-a3440cf2fe32",
+        "2c41d191-ef79-459a-8a0b-96c4e155234d"
+      ],
+      "interestCategories": [
+        "fb52cd96-ec24-47ed-b373-16044c16d6fb",
+        "d448f30a-1887-4f76-aedb-344ec752fd53"
+      ]
+    }
+  },
+  {
+    "label": "ISA Calgary Show",
+    "id": "2c41d191-ef79-459a-8a0b-96c4e155234d",
+    "section": "Energy",
+    "fieldSources": {
+      "businessNatures": ["2c41d191-ef79-459a-8a0b-96c4e155234d"],
+      "interestCategories": ["d448f30a-1887-4f76-aedb-344ec752fd53"]
+    }
+  }
+]
