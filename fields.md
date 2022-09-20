@@ -158,7 +158,7 @@ The degree of motivation that they want to participate in the event.
 
 - Field: Single Select
 - Should have varying combinations of interest levels in different lists based on the brand
-- Example options are:
+- The options are fixed:
 
 ```json
 [
