@@ -27,3 +27,19 @@ As for the "Interest" sources, out of all the interests, it would try to pick th
 There are a couple of challenges in representing the fields in a form:
 
 1. There are entries of the same label in the "Interest" data but belong to different categories (e.g. `Accessories` in `Accessories / Décor And Homeware` category but also in `Abrasives / Adhesives And Coatings` category). Representing them on the form whilst distinguishing them apart requires adding the interest's category as part of the final label, when choosing from the list of options in the form.
+
+## Example Form Links
+
+This section contains examples of existing forms. They are a good reference in how the fields should generally look and the types of fields they have but is a bad reference for how a form template spec is made since the existing forms are inconsistent.
+
+**Visitor Registration**
+
+- https://register.designfairasia.com/Public/Registration.aspx
+
+**Sales Lead Generation**
+
+- https://www.future-mobility.asia/contact-us
+
+**Brochure Downloads**
+
+- https://www.canadagaslng.com/forms/download-conference-preview
