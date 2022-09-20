@@ -65,7 +65,7 @@ Below contains the possible fields that may or may not be included in the final 
 - Visibility: Shown depending on the brand
 - Optional if shown
 
-### [**Industry**](../fields.md#industry-industry)
+### [**Nature of Business**](../fields.md#nature-of-business-natureofbusiness)
 
 - Visibility: Shown depending on the brand
 - Required if shown

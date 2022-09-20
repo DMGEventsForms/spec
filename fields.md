@@ -120,13 +120,13 @@ e.g. `555-123-4567`
 - Displays the area code's country once entered
 - Errors on an invalid fax number
 
-### Industry (**industry**)
+### Nature Of Business (**natureOfBusiness**)
 
-The company's nature of business category e.g. `Oil & Gas`.
+What are the business' main operations? It shows what the company does.
 
-- Field: Single Select
-- Be able to select one from a list of industries
-- Should have varying combinations of industries in different lists based on the brand
+- Field: Multi Select
+- Be able to select one or more from a list business natures
+- Should have varying combinations of business natures in different lists based on the brand
 
 ### Event Interests (**interests**)
 
