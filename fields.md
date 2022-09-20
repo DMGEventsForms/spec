@@ -17,6 +17,24 @@ This is used as a unique identifier for the person who submitted the form.
 - Field: Text
 - Validated if it looks like an e-mail
 
+### Salutation (**salutation**)
+
+- Field: Single Select
+- The options are fixed:
+
+```json
+[
+  { "value": "mr", "label": "Mr." },
+  { "value": "ms", "label": "Ms." },
+  { "value": "mrs", "label": "Mrs." },
+  { "value": "miss", "label": "Miss." },
+  { "value": "dr", "label": "Dr." },
+  { "value": "prof", "label": "Prof." },
+  { "value": "he", "label": "H.E." },
+  { "value": "sir", "label": "Sir" }
+]
+```
+
 ### First Name (**firstName**)
 
 The person's first name.
