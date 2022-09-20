@@ -10,7 +10,7 @@ This repo contains the compiled set of specifications and sample data, documenti
 
 `data/core/`: contains the business data model of how each brand picks from a list of interests, nature of businesses, etc...
 
-## Form Data Modelling
+## Form Data Modelling & Design
 
 ### Brands
 
