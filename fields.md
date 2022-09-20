@@ -76,9 +76,7 @@ The country they're in.
 
 The city of the country they're in.
 
-- Field: Single Select
-- Disable field until the [Country](#country-country) field is filled in
-- Be able to select one from a list of cities based on country
+- Field: Text
 
 ### Company Name (**companyName**)
 
