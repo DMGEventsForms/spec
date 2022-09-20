@@ -16,7 +16,7 @@ This repo contains the compiled set of specifications and sample data, documenti
 
 ![Data Modelling for brands](brands.svg "Data Modelling for brands")
 
-At the data level, brands would dictate how certain parts of the form fields would show up (see [Contact Us](templates/contact-us-form.md#fax-number) as example). Furthermore, the brand would also dictate how the data sources for the field "Interests" and "Nature of Business" questions on the form will be supplied.
+At the data level, brands would dictate how certain parts of the form fields would show up (see [Brand Specific Overrides](templates/brand-specific.md)). Furthermore, the brand would also dictate how the data sources for the field "Interests" and "Nature of Business" questions on the form will be supplied.
 
 For the "Nature of Business" sources, out of all the business natures, it would simply try to pick them individually (See [fieldSources.businessNatures](./data/core/brands.json)).
 

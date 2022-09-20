@@ -76,15 +76,15 @@ Below contains the possible fields that may or may not be included in the final 
 
 ### [**Fax Number**](../fields.md#fax-number-faxnumber)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Optional if shown
 
 ### [**Nature of Business**](../fields.md#nature-of-business-natureofbusiness)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Required if shown
 
 ### [**Type of Interest**](../fields.md#type-of-interest-interesttype)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Required if shown

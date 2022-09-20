@@ -62,22 +62,22 @@ Below contains the possible fields that may or may not be included in the final 
 
 ### [**Fax Number**](../fields.md#fax-number-faxnumber)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Optional if shown
 
 ### [**Nature of Business**](../fields.md#nature-of-business-natureofbusiness)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Required if shown
 
 ### [**Interests**](../fields.md#interests-interests)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Required if shown
 
 ### [**Influence**](../fields.md#influence-influence)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Required if shown
 
 ### [**Influence Level**](../fields.md#influence-level-influencelevel)
@@ -87,10 +87,10 @@ Below contains the possible fields that may or may not be included in the final 
 
 ### [**SACAP Number**](../fields.md#sacap-number-sacapnumber)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Optional if shown
 
 ### [**ECSA Number**](../fields.md#ecsa-number-ecsanumber)
 
-- Visibility: Shown depending on the brand
+- Visibility: Hidden by default, shown depending on the brand
 - Optional if shown
