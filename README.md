@@ -21,7 +21,7 @@ This showcases the user journey of filling out the form.
 1. Browser requests a form from the form vendor
 2. User fills out the fields in the form as necessary
 3. If required, the user must upload all the registrant photos, pressing the upload button respectively per registrant
-   1. Once pressed, the Photo Editor opens and allows the user to edit the photo
+   1. Once a photo has been selected, the Photo Editor opens and allows the user to edit the photo
    2. User confirms that they’re happy with the photo and is sent to the Photo Validation Service for checking
    3. **If successful**, the Photo Editor exits and the photo is saved as part of the form
    4. **If unsuccessful**, the Photo Editor warns the user on why the photo was rejected
