@@ -1,27 +1,82 @@
 [
   {
-    "label": "Coatings Show",
-    "id": "a2481233-4c8e-48da-ac48-b196871f455e",
-    "section": "Coatings"
+    "label": "Alternative Energy",
+    "id": "a2481233-4c8e-48da-ac48-b196871f455e"
   },
   {
-    "label": "The Big 5 Construct",
-    "id": "e0a43542-0479-4d8a-bc3f-99e530c9337a",
-    "section": "Construction"
+    "label": "Contracting, Commercial, Investment & Trading",
+    "id": "e0a43542-0479-4d8a-bc3f-99e530c9337a"
   },
   {
-    "label": "Saudi Infrastructure Expo",
-    "id": "d2079174-4db6-4570-ac65-583c115055a7",
-    "section": "Construction"
+    "label": "Education",
+    "id": "d2079174-4db6-4570-ac65-583c115055a7"
   },
   {
-    "label": "Tanzania Energy Congress",
-    "id": "0450b602-0b99-4e1d-8149-a3440cf2fe32",
-    "section": "Energy"
+    "label": "Embassy",
+    "id": "0450b602-0b99-4e1d-8149-a3440cf2fe32"
   },
   {
-    "label": "ISA Calgary Show",
-    "id": "2c41d191-ef79-459a-8a0b-96c4e155234d",
-    "section": "Energy"
+    "label": "Engineering Procurement Construction & Management",
+    "id": "2c41d191-ef79-459a-8a0b-96c4e155234d"
+  },
+  {
+    "label": "Exploration",
+    "id": "9d61e872-f345-41d0-b2dc-2849f89d1963"
+  },
+  {
+    "label": "Extraction and Production & Processing",
+    "id": "14afc4e4-67d7-4a18-b0f6-7b7c3f7c62ce"
+  },
+  {
+    "label": "Government",
+    "id": "8130d2bf-ae05-4c99-bc3c-99098cad0c7f"
+  },
+  {
+    "label": "Health, Safety, Security & Environment",
+    "id": "4673b758-286e-49e9-b611-e3d90c7f8feb"
+  },
+  {
+    "label": "Human Resources",
+    "id": "5ee27026-9a58-4af7-8946-247968caea3a"
+  },
+  {
+    "label": "Indusrty Associations",
+    "id": "424065b0-dfcb-4f59-bdb2-b3170b24950a"
+  },
+  {
+    "label": "Information Technology",
+    "id": "ad3f4785-7e31-4ae5-ad11-4331d8cb8e55"
+  },
+  {
+    "label": "Integrated Energy Company",
+    "id": "1c483135-2d0b-4ee5-a92a-bcc5198c1e50"
+  },
+  {
+    "label": "Investment",
+    "id": "87615ff2-be4e-499b-b2df-7a13dfd33092"
+  },
+  {
+    "label": "Marine Shipping and Storage",
+    "id": "0d3566ed-b7d6-4a58-a64e-bae6ccc2a6d0"
+  },
+  {
+    "label": "Media",
+    "id": "9b9b9833-cec2-4525-aeed-fdfca67a34f7"
+  },
+  {
+    "label": "National Groups",
+    "id": "0e1bd4f5-594e-4045-b293-39e897d46e23"
+  },
+  {
+    "label": "Natiural Gas Vehicles",
+    "id": "56a30c8f-f616-4030-9b93-43c150984433"
+  },
+  {
+    "label": "Petrochemicals",
+    "id": "5dc47091-8966-4092-8ef4-8a718da44fc3"
+  },
+  {
+    "label": "Regasification, Transmission and Distribution & Power Generation",
+    "id": "05983ff5-ce16-4db7-9fdc-89252acbcb1f"
   }
 ]
