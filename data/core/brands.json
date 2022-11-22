@@ -66,5 +66,14 @@
       "businessNatures": ["2c41d191-ef79-459a-8a0b-96c4e155234d"],
       "interestCategories": ["d448f30a-1887-4f76-aedb-344ec752fd53"]
     }
+  },
+  {
+    "label": "Egypt Petroleum Show",
+    "id": "ebaa75fe-c736-4413-8a07-2c48708b2f15",
+    "section": "Energy",
+    "fieldSources": {
+      "businessNatures": ["2c41d191-ef79-459a-8a0b-96c4e155234d"],
+      "interestCategories": ["d448f30a-1887-4f76-aedb-344ec752fd53"]
+    }
   }
 ]
