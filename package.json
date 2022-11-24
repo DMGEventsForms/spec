@@ -1,0 +1,19 @@
+{
+  "name": "spec",
+  "version": "0.1.0",
+  "description": "This repo contains the compiled set of specifications and sample data, documenting the ideal state of each form types.",
+  "main": "index.js",
+  "scripts": {
+    "deploy:main": "aws s3 cp ./data/core/main.json s3://gatedcontent-poc/main.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmgevent/spec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dmgevent/spec/issues"
+  },
+  "homepage": "https://github.com/dmgevent/spec#readme"
+}
