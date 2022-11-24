@@ -4,43 +4,37 @@
       "id": "962f4cd0-917d-41c5-8456-8083dcd33e39",
       "label": "Coatings Show 2022",
       "edition": "2022",
-      "brandId": "a2481233-4c8e-48da-ac48-b196871f455e",
-      "brochureUrl": ""
+      "brandId": "a2481233-4c8e-48da-ac48-b196871f455e"
     },
     {
       "id": "cef33d4c-c813-4ba9-8f0c-7890f16339df",
       "label": "The Big 5 Construct 2022",
       "edition": "2022",
-      "brandId": "e0a43542-0479-4d8a-bc3f-99e530c9337a",
-      "brochureUrl": ""
+      "brandId": "e0a43542-0479-4d8a-bc3f-99e530c9337a"
     },
     {
       "id": "39b2bdb4-6207-408f-a6e5-fa0789b77662",
       "label": "Saudi Infrastructure Expo 2022",
       "edition": "2022",
-      "brandId": "d2079174-4db6-4570-ac65-583c115055a7",
-      "brochureUrl": ""
+      "brandId": "d2079174-4db6-4570-ac65-583c115055a7"
     },
     {
       "id": "8532cfe3-b3c2-4705-9da0-39a86d48815c",
       "label": "Tanzania Energy Congress 2022",
       "edition": "2022",
-      "brandId": "0450b602-0b99-4e1d-8149-a3440cf2fe32",
-      "brochureUrl": ""
+      "brandId": "0450b602-0b99-4e1d-8149-a3440cf2fe32"
     },
     {
       "id": "301b2f06-4f95-4acc-af5f-f7c62eafbfb6",
       "label": "ISA Calgary Show 2022",
       "edition": "2022",
-      "brandId": "2c41d191-ef79-459a-8a0b-96c4e155234d",
-      "brochureUrl": ""
+      "brandId": "2c41d191-ef79-459a-8a0b-96c4e155234d"
     },
     {
       "id": "4295a2bc-b415-4067-846e-5e6a3289316c",
       "label": "Egypt Petroleum Show 2023",
       "edition": "2023",
-      "brandId": "ebaa75fe-c736-4413-8a07-2c48708b2f15",
-      "brochureUrl": "https://gatedcontent-poc.s3.eu-west-1.amazonaws.com/brochures/egyps-2023-brochure.pdf"
+      "brandId": "ebaa75fe-c736-4413-8a07-2c48708b2f15"
     }
   ],
   "brands": [
