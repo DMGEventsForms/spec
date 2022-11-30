@@ -8,7 +8,8 @@
     "country": "Thailand",
     "venueLocation": "Bangkok International Trade & Exhibition Centre",
     "startDate": "2022-05-13",
-    "endDate": "2022-05-15"
+    "endDate": "2022-05-15",
+    "tickets": ["49dc89d6-c981-4176-b4b1-0ca844982808"]
   },
   {
     "id": "cef33d4c-c813-4ba9-8f0c-7890f16339df",
@@ -19,7 +20,8 @@
     "country": "United Arab Emirates",
     "venueLocation": "Dubai World Trade Centre",
     "startDate": "2022-12-05",
-    "endDate": "2022-12-08"
+    "endDate": "2022-12-08",
+    "tickets": ["49dc89d6-c981-4176-b4b1-0ca844982808"]
   },
   {
     "id": "39b2bdb4-6207-408f-a6e5-fa0789b77662",
@@ -30,7 +32,8 @@
     "country": "Saudi Arabia",
     "venueLocation": "Riyadh Front Exhibition & Convention Center",
     "startDate": "2022-09-10",
-    "endDate": "2022-09-12"
+    "endDate": "2022-09-12",
+    "tickets": ["49dc89d6-c981-4176-b4b1-0ca844982808"]
   },
   {
     "id": "8532cfe3-b3c2-4705-9da0-39a86d48815c",
@@ -41,7 +44,8 @@
     "country": "Tanzania",
     "venueLocation": "Julius Nyerere International Convention Centre",
     "startDate": "2023-09-20",
-    "endDate": "2023-09-21"
+    "endDate": "2023-09-21",
+    "tickets": ["49dc89d6-c981-4176-b4b1-0ca844982808"]
   },
   {
     "id": "301b2f06-4f95-4acc-af5f-f7c62eafbfb6",
@@ -52,7 +56,8 @@
     "country": "Canada",
     "venueLocation": "Telus Convention Centre",
     "startDate": "2022-05-10",
-    "endDate": "2022-05-12"
+    "endDate": "2022-05-12",
+    "tickets": ["49dc89d6-c981-4176-b4b1-0ca844982808"]
   },
   {
     "id": "4295a2bc-b415-4067-846e-5e6a3289316c",
@@ -63,6 +68,13 @@
     "country": "Egypt",
     "venueLocation": "Egypt International Exhibition Center",
     "startDate": "2023-02-13",
-    "endDate": "2023-02-15"
+    "endDate": "2023-02-15",
+    "tickets": [
+      "49dc89d6-c981-4176-b4b1-0ca844982808",
+      "50a82738-fbc4-41e4-a0c4-31a849793455",
+      "6a02072e-b276-4d94-9b68-7c9d71195e24",
+      "1a5356a5-f058-42f2-99bd-25337f153297",
+      "ae0272a5-a18f-4066-abb5-1e13e0b4d6d8"
+    ]
   }
 ]

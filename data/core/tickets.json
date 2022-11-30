@@ -1,0 +1,37 @@
+[
+  {
+    "id": "49dc89d6-c981-4176-b4b1-0ca844982808",
+    "code": "productCode1",
+    "label": "All Access Conference Pass",
+    "price": 2089,
+    "currency": "USD"
+  },
+  {
+    "id": "50a82738-fbc4-41e4-a0c4-31a849793455",
+    "code": "productCode2",
+    "label": "Strategic Conference Pass",
+    "price": 1030,
+    "currency": "USD"
+  },
+  {
+    "id": "6a02072e-b276-4d94-9b68-7c9d71195e24",
+    "code": "productCode3",
+    "label": "Equality in Energy Awards & Conference Pass",
+    "price": 577,
+    "currency": "USD"
+  },
+  {
+    "id": "1a5356a5-f058-42f2-99bd-25337f153297",
+    "code": "productCode4",
+    "label": "Finance & Investment in Energy Conference Pass",
+    "price": 577,
+    "currency": "USD"
+  },
+  {
+    "id": "ae0272a5-a18f-4066-abb5-1e13e0b4d6d8",
+    "code": "productCode5",
+    "label": "Sustainability in Energy Awards & Conference Pass",
+    "price": 577,
+    "currency": "USD"
+  }
+]
