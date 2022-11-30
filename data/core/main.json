@@ -107,7 +107,7 @@
       "venueLocation": "Egypt International Exhibition Center",
       "startDate": "2023-02-13",
       "endDate": "2023-02-15",
-      "tickets": [
+      "ticketIds": [
         "49dc89d6-c981-4176-b4b1-0ca844982808",
         "50a82738-fbc4-41e4-a0c4-31a849793455",
         "6a02072e-b276-4d94-9b68-7c9d71195e24",
