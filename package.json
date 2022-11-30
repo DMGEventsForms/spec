@@ -4,7 +4,7 @@
   "description": "This repo contains the compiled set of specifications and sample data, documenting the ideal state of each form types.",
   "main": "index.js",
   "scripts": {
-    "deploy:main": "aws s3 cp ./data/core/main.json s3://gatedcontent-poc/main.json"
+    "deploy:main": "aws s3 cp ./data/core/main.json s3://gatedcontent-poc/main.json --acl public-read"
   },
   "repository": {
     "type": "git",
