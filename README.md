@@ -10,6 +10,14 @@ This repo contains the compiled set of specifications and sample data, documenti
 
 `data/core/`: contains the business data model of how each brand picks from a list of interests, nature of businesses, etc...
 
+## Scripts
+
+```sh
+npm run deploy:main
+```
+
+This will deploy `data/core/main.json` to the `gatedcontent-poc` bucket, updating the endpoint `https://gatedcontent-poc.s3.eu-west-1.amazonaws.com/main.json`. Needs a valid AWS Credentials in your local system to work.
+
 ## Form Data Modelling & Design
 
 ### Overview
